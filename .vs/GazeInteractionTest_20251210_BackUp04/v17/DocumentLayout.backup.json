@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2025_10_Capstone\\GazeInteractionTest_20251210_BackUp04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{337D7D4D-4643-020A-03C6-13EFDC636A73}|Assembly-CSharp.csproj|c:\\2025_10_capstone\\gazeinteractiontest_20251210_backup04\\assets\\clothdropcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337D7D4D-4643-020A-03C6-13EFDC636A73}|Assembly-CSharp.csproj|solutionrelative:assets\\clothdropcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337D7D4D-4643-020A-03C6-13EFDC636A73}|Assembly-CSharp.csproj|c:\\2025_10_capstone\\gazeinteractiontest_20251210_backup04\\assets\\scripts\\colorchange\\colorchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337D7D4D-4643-020A-03C6-13EFDC636A73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colorchange\\colorchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337D7D4D-4643-020A-03C6-13EFDC636A73}|Assembly-CSharp.csproj|c:\\2025_10_capstone\\gazeinteractiontest_20251210_backup04\\assets\\clothnoisegravity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337D7D4D-4643-020A-03C6-13EFDC636A73}|Assembly-CSharp.csproj|solutionrelative:assets\\clothnoisegravity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClothNoiseGravity.cs",
+              "DocumentMoniker": "C:\\2025_10_Capstone\\GazeInteractionTest_20251210_BackUp04\\Assets\\ClothNoiseGravity.cs",
+              "RelativeDocumentMoniker": "Assets\\ClothNoiseGravity.cs",
+              "ToolTip": "C:\\2025_10_Capstone\\GazeInteractionTest_20251210_BackUp04\\Assets\\ClothNoiseGravity.cs",
+              "RelativeToolTip": "Assets\\ClothNoiseGravity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T17:08:42.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClothDropController.cs",
+              "DocumentMoniker": "C:\\2025_10_Capstone\\GazeInteractionTest_20251210_BackUp04\\Assets\\ClothDropController.cs",
+              "RelativeDocumentMoniker": "Assets\\ClothDropController.cs",
+              "ToolTip": "C:\\2025_10_Capstone\\GazeInteractionTest_20251210_BackUp04\\Assets\\ClothDropController.cs",
+              "RelativeToolTip": "Assets\\ClothDropController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAQwE8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:42:35.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "colorchange.cs",
+              "DocumentMoniker": "C:\\2025_10_Capstone\\GazeInteractionTest_20251210_BackUp04\\Assets\\Scripts\\colorchange\\colorchange.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\colorchange\\colorchange.cs",
+              "ToolTip": "C:\\2025_10_Capstone\\GazeInteractionTest_20251210_BackUp04\\Assets\\Scripts\\colorchange\\colorchange.cs",
+              "RelativeToolTip": "Assets\\Scripts\\colorchange\\colorchange.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:39:12.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
