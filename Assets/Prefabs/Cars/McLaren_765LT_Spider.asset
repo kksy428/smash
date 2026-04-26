@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52dcc130f7918ff41974e0b2f4cc0b23, type: 3}
+  m_Name: McLaren_765LT_Spider
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7557623692515849333, guid: c0235265710d7ae43837ee42e68915e6, type: 3}
+  colorMaterials:
+  - {fileID: 2100000, guid: e45512f56b71822458263c7f1ca15a90, type: 2}
+  - {fileID: 2100000, guid: f6c7de25238c84741b41024326d17518, type: 2}
+  - {fileID: 2100000, guid: f212ea558814acd4daa1c577777bca96, type: 2}
+  - {fileID: 2100000, guid: 70aa3b8c098eec648a732c8b2fac68ff, type: 2}
+  - {fileID: 2100000, guid: 6f5d8173cabfdf0428ad02764cbf8045, type: 2}
+  - {fileID: 2100000, guid: d43dc63a6908a2b48bdb0b6b776ef874, type: 2}
+  - {fileID: 2100000, guid: 004296a856cd54941baadd82da79e70a, type: 2}
+  animations:
+  - label: Door
+    openTrigger: DoorOpen
+    closeTrigger: DoorClose
+  - label: Roof
+    openTrigger: RoofOpen
+    closeTrigger: RoofClose
+  - label: Trunk
+    openTrigger: TrunkOpen
+    closeTrigger: TrunkClose
+  - label: Wing
+    openTrigger: WingOpen
+    closeTrigger: WingClose
+  - label: Display
+    openTrigger: DisplayOpen
+    closeTrigger: DisplayClose

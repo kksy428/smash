@@ -60,21 +60,21 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f2\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\CAP2\Juneon\ColorSwitcher\CarPaintTarget.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
     <Compile Include="Assets\Scripts\ReturnToOrigin.cs" />
+    <Compile Include="Assets\Scripts\CAP2\Juneon\CarData.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
     <Compile Include="Assets\Imported\QuickOutline\Scripts\Outline.cs" />
+    <Compile Include="Assets\Scripts\CAP2\Juneon\CarController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\Scripts\Teleport\TeleportManager.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
-    <Compile Include="Assets\Scripts\CAP2\Juneon\ColorSwitcher\CarColorSwitcher.cs" />
-    <Compile Include="Assets\Scripts\CAP2\Juneon\CarSwitcher.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
     <Compile Include="Assets\Imported\GazeInteraction\Scripts\GazeInteractionDemo.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
+    <Compile Include="Assets\Scripts\CAP2\Juneon\CarModelSwitcher.cs" />
     <Compile Include="Assets\Scripts\RotateDial.cs" />
     <Compile Include="Assets\Imported\GazeInteraction\Scripts\GazeInteractable.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
@@ -115,6 +115,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
+    <Compile Include="Assets\Scripts\CAP2\Juneon\CarAnimationController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
     <Compile Include="Assets\Imported\GazeInteraction\Scripts\ResourcesManager.cs" />
@@ -129,6 +130,7 @@
     <Compile Include="Assets\Imported\GazeInteraction\Scripts\ReticleType.cs" />
     <Compile Include="Assets\Imported\Ciconia Studio\_Shared Files\Scripts\Demo\FreeCam.cs" />
     <Compile Include="Assets\Imported\Ciconia Studio\_Shared Files\Scripts\Demo\FreeCamera.cs" />
+    <Compile Include="Assets\Scripts\CAP2\Juneon\CarColorSwitcher.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
   </ItemGroup>
   <ItemGroup>
