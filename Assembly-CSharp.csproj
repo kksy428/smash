@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
     <Compile Include="Assets\Scripts\ReturnToOrigin.cs" />
+    <Compile Include="Assets\Scripts\SceneChange.cs" />
     <Compile Include="Assets\Scripts\CAP2\Juneon\CarData.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
     <Compile Include="Assets\Imported\QuickOutline\Scripts\Outline.cs" />
