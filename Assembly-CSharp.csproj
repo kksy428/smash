@@ -62,7 +62,6 @@
   <ItemGroup>
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
     <Compile Include="Assets\Scripts\ReturnToOrigin.cs" />
-    <Compile Include="Assets\Scripts\SceneChange.cs" />
     <Compile Include="Assets\Scripts\CAP2\Juneon\CarData.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
     <Compile Include="Assets\Imported\QuickOutline\Scripts\Outline.cs" />
@@ -127,10 +126,12 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
     <Compile Include="Assets\Scripts\isOnController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
+    <Compile Include="Assets\Scripts\CAP2\SceneChange.cs" />
     <Compile Include="Assets\Scripts\colorchange\colorchange.cs" />
     <Compile Include="Assets\Imported\GazeInteraction\Scripts\ReticleType.cs" />
     <Compile Include="Assets\Imported\Ciconia Studio\_Shared Files\Scripts\Demo\FreeCam.cs" />
     <Compile Include="Assets\Imported\Ciconia Studio\_Shared Files\Scripts\Demo\FreeCamera.cs" />
+    <Compile Include="Assets\Scripts\CAP2\Juneon\DelayedAction.cs" />
     <Compile Include="Assets\Scripts\CAP2\Juneon\CarColorSwitcher.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
   </ItemGroup>

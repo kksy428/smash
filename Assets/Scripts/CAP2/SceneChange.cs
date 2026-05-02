@@ -3,6 +3,14 @@ using UnityEngine.SceneManagement;
 
 public class SceneChanger : MonoBehaviour
 {
+    public void GoToIntro()
+    {
+        SceneManager.LoadScene("Intro");
+    }
+    public void GoToMainExt()
+    {
+        SceneManager.LoadScene("MAIN_EXT");
+    }
     // ∏∆∂Û∑ª æ¿¿∏∑Œ ¿Ãµø
     public void GoToMcLaren()
     {
@@ -20,8 +28,8 @@ public class SceneChanger : MonoBehaviour
         SceneManager.LoadScene("MAIN_INT_FERRARI");
     }
 
-    public void GoToMainExt()
+    public void GoToOutro()
     {
-        SceneManager.LoadScene("MAIN_EXT");
+        SceneManager.LoadScene("Outro");
     }
 }
