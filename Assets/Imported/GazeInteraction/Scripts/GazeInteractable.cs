@@ -125,7 +125,22 @@ namespace TS.GazeInteraction
         }
         private void Start()
         {
-            enabled = false;
+        }
+        private void OnTriggerEnter(Collider other)
+        {
+            // 손/컨트롤러만 인식 (GazeInteractor는 제외)
+            if (other.GetComponent<GazeInteractor>() != null) return;
+
+            OnGazeEnter?.Invoke();
+            OnGazeToggle?.Invoke(true);
+        }
+
+        private void OnTriggerExit(Collider other)
+        {
+            if (other.GetComponent<GazeInteractor>() != null) return;
+
+            OnGazeExit?.Invoke();
+            OnGazeToggle?.Invoke(false);
         }
 
         /// <summary>
