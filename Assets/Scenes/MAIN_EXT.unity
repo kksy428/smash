@@ -2731,6 +2731,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   carModelSwitcher: {fileID: 121854078}
+  currentColorIndex: 0
 --- !u!114 &121854077
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4620,7 +4621,7 @@ Light:
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 2
   m_Range: 1.8765073
-  m_SpotAngle: 40.54784
+  m_SpotAngle: 93
   m_InnerSpotAngle: 8.548929
   m_CookieSize: 10
   m_Shadows:
@@ -34881,7 +34882,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
   m_LocalPosition: {x: 0, y: 2, z: -0.10700011}
-  m_LocalScale: {x: 0.1, y: 1, z: 0.3}
+  m_LocalScale: {x: 0.23736039, y: 1, z: 0.37188}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1278087983}
@@ -43431,7 +43432,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2043597675}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.2616867, y: -0.8834395, z: -0.37265262, w: 0.11038473}
+  m_LocalRotation: {x: 0.16507077, y: -0.6875694, z: -0.6875694, w: -0.16507077}
   m_LocalPosition: {x: 0, y: 0.065, z: 0}
   m_LocalScale: {x: 2.538, y: 2.5380015, z: 2.5380015}
   m_ConstrainProportionsScale: 0
@@ -43440,7 +43441,7 @@ Transform:
   - {fileID: 419276992}
   - {fileID: 1839346165}
   m_Father: {fileID: 94335032}
-  m_LocalEulerAnglesHint: {x: -134.258, y: 0, z: -147}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: -207}
 --- !u!54 &2043597677
 Rigidbody:
   m_ObjectHideFlags: 0

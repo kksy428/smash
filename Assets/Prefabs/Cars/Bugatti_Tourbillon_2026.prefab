@@ -16,6 +16,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: dbba8b4ff4d80ac4980c7513c38afdf9, type: 2}
+    - target: {fileID: -565945125863867406, guid: 4825f3baf052a3a4b955e1005898c6ae, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5dd03b7de68335f44886fcb8a5a754cc, type: 2}
     - target: {fileID: 1631004501474491465, guid: 4825f3baf052a3a4b955e1005898c6ae, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -108,11 +112,3 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   paintRenderers:
   - {fileID: 831368137124580221}
-  colorMaterials:
-  - {fileID: 2100000, guid: 920b8f873fc86894c91e172846ac9ce2, type: 2}
-  - {fileID: 2100000, guid: f6c7de25238c84741b41024326d17518, type: 2}
-  - {fileID: 2100000, guid: 920b8f873fc86894c91e172846ac9ce2, type: 2}
-  - {fileID: 2100000, guid: 70aa3b8c098eec648a732c8b2fac68ff, type: 2}
-  - {fileID: 2100000, guid: 6f5d8173cabfdf0428ad02764cbf8045, type: 2}
-  - {fileID: 2100000, guid: d43dc63a6908a2b48bdb0b6b776ef874, type: 2}
-  - {fileID: 2100000, guid: 004296a856cd54941baadd82da79e70a, type: 2}

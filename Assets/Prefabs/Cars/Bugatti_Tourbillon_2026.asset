@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefab: {fileID: 976332291080024519, guid: 538eef9270851864cb33bbead7d89f88, type: 3}
   colorMaterials:
-  - {fileID: 2100000, guid: 920b8f873fc86894c91e172846ac9ce2, type: 2}
+  - {fileID: 2100000, guid: f212ea558814acd4daa1c577777bca96, type: 2}
   - {fileID: 2100000, guid: f6c7de25238c84741b41024326d17518, type: 2}
-  - {fileID: 2100000, guid: 920b8f873fc86894c91e172846ac9ce2, type: 2}
+  - {fileID: 2100000, guid: f212ea558814acd4daa1c577777bca96, type: 2}
   - {fileID: 2100000, guid: 70aa3b8c098eec648a732c8b2fac68ff, type: 2}
   - {fileID: 2100000, guid: 6f5d8173cabfdf0428ad02764cbf8045, type: 2}
   - {fileID: 2100000, guid: d43dc63a6908a2b48bdb0b6b776ef874, type: 2}

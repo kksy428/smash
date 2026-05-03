@@ -2,16 +2,17 @@ using UnityEngine;
 
 public class CarModelSwitcher : MonoBehaviour
 {
-    [Header("차량 데이터 목록")]
     public CarData[] carDataList;
-
     public Transform carHolder;
     public GameObject currentCarInstance { get; private set; }
+
     private CarData currentCarData;
+    private CarColorSwitcher carColorSwitcher;
     private int currentIndex = -1;
 
     void Start()
     {
+        carColorSwitcher = GetComponent<CarColorSwitcher>();
         SelectCar(0);
     }
 
@@ -27,6 +28,9 @@ public class CarModelSwitcher : MonoBehaviour
             Destroy(currentCarInstance);
 
         currentCarInstance = Instantiate(currentCarData.prefab, carHolder);
+
+        if (carColorSwitcher != null)
+            carColorSwitcher.ApplyColorToCurrent(carColorSwitcher.currentColorIndex);
     }
 
     public CarData GetCurrentCarData()
