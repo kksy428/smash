@@ -130,6 +130,7 @@
     <Compile Include="Assets\Scripts\colorchange\colorchange.cs" />
     <Compile Include="Assets\Imported\GazeInteraction\Scripts\ReticleType.cs" />
     <Compile Include="Assets\Imported\Ciconia Studio\_Shared Files\Scripts\Demo\FreeCam.cs" />
+    <Compile Include="Assets\Scripts\CAP2\Juneon\SkyBoxSwitcher.cs" />
     <Compile Include="Assets\Imported\Ciconia Studio\_Shared Files\Scripts\Demo\FreeCamera.cs" />
     <Compile Include="Assets\Scripts\CAP2\Juneon\DelayedAction.cs" />
     <Compile Include="Assets\Scripts\CAP2\Juneon\CarColorSwitcher.cs" />
